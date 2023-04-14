@@ -1,4 +1,4 @@
-- 👋 **Hi there! , I’m Steven Feng.**
+- 👋 **Hi there! , I’m Steven Feng. / Front-end developer**
 
 <h4 align="left">Languages and Tools:</h3>
 <!-- ======================================= -->
