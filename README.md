@@ -1,5 +1,9 @@
 - 👋 **Hi there! , I’m Steven Feng. / Front-end developer**
 
+- 💬 WeChat: fenghang1109
+- 📫 Email: 332393900@qq.com
+- 🏡 掘金：https://juejin.cn/user/4160207731042007
+
 ![](https://komarev.com/ghpvc/?username=fh332393900)
 
 <h4 align="left">Languages and Tools:</h3>
