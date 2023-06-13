@@ -1,6 +1,5 @@
 - 👋 **Hi there! , I’m Steven Feng. / Front-end developer**
 
-- 💬 WeChat: fenghang1109
 - 📫 Email: 332393900@qq.com
 - 🏡 掘金： [蝴蝶刀砍手大师](https://juejin.cn/user/4160207731042007/posts)
 
